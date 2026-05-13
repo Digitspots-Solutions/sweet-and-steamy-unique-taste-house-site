@@ -1,0 +1,42 @@
+{
+  "businessName": "Sweet and Steamy, Unique Taste House",
+  "industry": "Food Manufacturing",
+  "tone": "warm and inviting",
+  "tagline": "Where Authentic Nigerian Flavors Come to Life",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Sweet and Steamy, Unique Taste House – your trusted partner for premium food manufacturing in Abuja. We blend traditional Nigerian recipes with modern production standards to deliver exceptional taste in every product. From our factory to your table, experience the difference of authentic, quality-made foods.",
+      "imagePrompt": "Vibrant, photorealistic image of a modern Nigerian food manufacturing facility with gleaming stainless steel equipment, colorful packaged food products on display, warm golden lighting, steam rising from industrial cooking pots, professional workers in hygiene gear, background showing organized production lines with Nigerian food ingredients like peppers, tomatoes, and spices in the foreground",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Sweet and Steamy, Unique Taste House is a leading food manufacturing company based in the heart of Abuja. We specialize in producing authentic Nigerian food products that capture the rich, diverse flavors of our heritage. Our state-of-the-art facility in Lugbe combines traditional cooking methods with modern food safety standards, ensuring every product meets the highest quality benchmarks.\n\nOur commitment goes beyond manufacturing – we're dedicated to preserving Nigerian culinary traditions while making them accessible to homes and businesses across the country. Every recipe is carefully crafted, every ingredient meticulously sourced, and every batch produced with pride.\n\nAt Sweet and Steamy, we understand that great food brings people together. That's why we put our heart into every product, ensuring that each taste tells a story of quality, authenticity, and the unique flavors that make Nigerian cuisine truly special.",
+      "imagePrompt": "Warm, photorealistic image of a diverse team of Nigerian food manufacturers in clean white uniforms and hairnets, smiling while working together in a bright, immaculate production facility, large windows showing natural light, shelves of finished packaged products in the background, ingredients like fresh vegetables and spices on wooden tables in the foreground, conveying professionalism and warmth",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Products & Services",
+      "copy": "**Premium Food Manufacturing**\nWe produce a wide range of authentic Nigerian food products including spice blends, seasoning mixes, ready-to-cook sauces, and traditional soup bases. Each product is manufactured to exacting standards in our certified facility.\n\n**Custom Recipe Development**\nWorking with restaurants, hotels, and food businesses, we develop custom food products tailored to your specific requirements. From concept to production, we bring your culinary vision to life.\n\n**Bulk Supply & Distribution**\nWe supply food products in bulk to retailers, wholesalers, and institutional buyers across Abuja and beyond. Our efficient distribution network ensures timely delivery and product freshness.\n\n**Quality Assurance & Food Safety**\nEvery product undergoes rigorous quality control testing. We maintain NAFDAC compliance and implement international food safety standards to guarantee the safety and quality of our products.\n\n**Private Label Manufacturing**\nLaunch your own food brand with our private label services. We handle formulation, production, and packaging while you focus on building your brand identity in the Nigerian market.",
+      "imagePrompt": "Professional, photorealistic grid layout showing various aspects of Nigerian food manufacturing: close-up of vibrant red palm oil being poured, neatly arranged spice containers in rows, industrial mixing equipment in action, packaged food products with colorful labels, quality control technician examining samples with microscope, delivery trucks loaded with products, all images showing modern, clean, professional food manufacturing environment",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to experience the Sweet and Steamy difference? Whether you're looking to place an order, discuss custom manufacturing, or learn more about our products, we're here to help.\n\nVisit our facility in Lugbe, Abuja, or reach out through any of the channels below. Our team is available to answer your questions and provide detailed information about our manufacturing capabilities, product range, and pricing.\n\nFor immediate assistance, contact us via WhatsApp or give us a call. We look forward to serving you and bringing authentic Nigerian flavors to your business or home.",
+      "imagePrompt": "Clean, professional photorealistic image of a modern Nigerian business office reception area with comfortable seating, potted plants, framed certifications on walls, large windows showing the factory facility in the background, a friendly receptionist at a sleek desk, warm lighting, subtle branding elements, conveying accessibility and professionalism",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 803 281 5209",
+    "email": "info@sweetandsteamy.ng",
+    "address": "No 13, Lagos Street, Trade More Estate, Lugbe, AMAC, Abuja, Nigeria",
+    "whatsapp": "https://wa.me/2348032815209"
+  }
+}
